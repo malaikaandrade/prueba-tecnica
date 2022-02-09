@@ -1,0 +1,33 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding: 100px;
+}
+
+.contenedor-form{
+    margin: 100px;
+    background-color: #9B4F4F;
+    width: 40%;
+    border-radius: 15px;
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    
+}
+h4{
+    color: white;
+}
+button{
+    width: 200px;
+    padding: 10px;
+    border-radius: 8px;
+    background-color: thistle;
+    margin-left: 70px;
+    margin-bottom: 15px;
+
+
+}
